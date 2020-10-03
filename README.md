@@ -1,5 +1,7 @@
 Параллельное тестирование vue+vuetify+blend4web
+
 Используется vue cli (https://cli.vuejs.org/) c плагином vue ui (https://cli.vuejs.org/dev-guide/ui-info.html)
+
 Добавлена зависимость blend4web
 
 
