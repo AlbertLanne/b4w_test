@@ -10,8 +10,6 @@ import * as main_canvas_container from 'blend4web/projects/my_project/my_project
   export default {
     name: 'HelloWorld',
     components: {
-      // b4w: () => import('blend4web'),
-      // main_canvas_container: () => import('my_project.js'),
     },
     data: () => ({
       main_canvas_container,
